@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Luís Fernando Martins]]></title>
-  <link href="http://lfernando.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Front-end | Luís Fernando Martins]]></title>
+  <link href="http://lfernando.github.com/blog/categories/front-end/atom.xml" rel="self"/>
   <link href="http://lfernando.github.com/"/>
   <updated>2012-03-03T17:14:24-03:00</updated>
   <id>http://lfernando.github.com/</id>
