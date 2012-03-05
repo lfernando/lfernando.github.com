@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://lfernando.github.com/blog/2012/02/13/frameworks-css/</loc>
+        <loc>http://lfmartins.com/blog/2012/02/13/frameworks-css/</loc>
         <lastmod>2012-03-03T17:14:15-03:00</lastmod>
     </url>
     <url>
-        <loc>http://lfernando.github.com/404.html</loc>
+        <loc>http://lfmartins.com/404.html</loc>
         <lastmod>2012-03-04T12:12:09-03:00</lastmod>
     </url>
     <url>
-        <loc>http://lfernando.github.com/about-me.html</loc>
+        <loc>http://lfmartins.com/about-me.html</loc>
         <lastmod>2012-03-03T20:50:50-03:00</lastmod>
     </url>
     <url>
-        <loc>http://lfernando.github.com/blog/archives/</loc>
+        <loc>http://lfmartins.com/blog/archives/</loc>
         <lastmod>2012-03-03T17:14:15-03:00</lastmod>
     </url>
     <url>
-        <loc>http://lfernando.github.com/</loc>
+        <loc>http://lfmartins.com/</loc>
         <lastmod>2012-03-03T17:14:15-03:00</lastmod>
     </url>
 </urlset>

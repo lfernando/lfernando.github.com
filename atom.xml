@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Luís Fernando Martins]]></title>
-  <link href="http://lfernando.github.com/atom.xml" rel="self"/>
-  <link href="http://lfernando.github.com/"/>
-  <updated>2012-03-04T12:22:46-03:00</updated>
-  <id>http://lfernando.github.com/</id>
+  <link href="http://lfmartins.com/atom.xml" rel="self"/>
+  <link href="http://lfmartins.com/"/>
+  <updated>2012-03-05T12:04:04-03:00</updated>
+  <id>http://lfmartins.com/</id>
   <author>
     <name><![CDATA[Luís Fernando Martins]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Frameworks CSS]]></title>
-    <link href="http://lfernando.github.com/blog/2012/02/13/frameworks-css/"/>
+    <link href="http://lfmartins.com/blog/2012/02/13/frameworks-css/"/>
     <updated>2012-02-13T16:56:00-02:00</updated>
-    <id>http://lfernando.github.com/blog/2012/02/13/frameworks-css</id>
+    <id>http://lfmartins.com/blog/2012/02/13/frameworks-css</id>
     <content type="html"><![CDATA[<p>Quando ouvimos a palavra framework pensamos sempre em frameworks de programação, como Rails, DJango, CakePHP dentre outros. Porém já faz um tempo que comecei ouvi falar em Frameworks de CSS. Assim como os frameworks de programação os de CSS buscam agilizar e padronizar nosso trabalho, esses frameworks possuem recursos muito uteis como o “reset” (que reseta o estilo padrão das principais tags, que são interpretadas de maneira diferente por cada browser), o “Grid” (que ajuda posicionar os elementos da aplicação).</p>
 
 <p>Como trabalho com Web e normalmente faço tanto o backend quanto o frontend decidi experimentar esses frameworks e ver se eles realmente oferecem alguma vantagem no desenvolvimento de um site ou aplicação web.</p>
